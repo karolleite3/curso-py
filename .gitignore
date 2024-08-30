@@ -1,0 +1,8 @@
+# Ignorar o arquivo launch.json
+launch.json
+
+# Ignorar o arquivo app.cpython-312.pyc
+app.cpython-312.pyc
+
+# Ignorar o banco de dados SQLite 
+.sqlite3
